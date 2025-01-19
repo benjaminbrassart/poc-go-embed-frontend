@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/benjaminbrassart/test-go-frontend/frontend"
+	"github.com/benjaminbrassart/poc-go-embed-frontend/frontend"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/filesystem"
 	"github.com/sirupsen/logrus"

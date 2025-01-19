@@ -1,4 +1,4 @@
-module github.com/benjaminbrassart/test-go-frontend
+module github.com/benjaminbrassart/poc-go-embed-frontend
 
 go 1.23.4
 
